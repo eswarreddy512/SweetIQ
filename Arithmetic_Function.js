@@ -27,5 +27,5 @@ exports.arthimetic_calculations = function(opeType, numberOne, NumberTwo) {
     return "Must pass numbers as params";
   }   
 
-  
+
   };

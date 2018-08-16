@@ -6,7 +6,7 @@ exports.arthimetic_calculations = function(opeType, numberOne, NumberTwo) {
         return numberOne + NumberTwo;
         break;
       case "-":
-        return numberOne + NumberTwo;
+        return numberOne - NumberTwo;
         break;
       case "*":
         return numberOne * NumberTwo;
